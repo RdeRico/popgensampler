@@ -2,7 +2,7 @@ Package: popgensampler
 Type: Package
 Title: Sample Selection for Population Genomics Studies
 Version: 0.1.0
-Authors@R: Authors@R: person("Holden", "Fox", 
+Authors@R: person("Holden", "Fox", 
                   email = "Holden.Fox@colostate.edu",
                   role = c("aut", "cre"))
 Description: Tools for ranking and selecting genomic samples based on 
